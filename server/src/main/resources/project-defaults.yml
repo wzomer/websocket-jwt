@@ -1,0 +1,3 @@
+jwt:
+  secret: chave-secreta
+  expirationTime: 860_000_000
